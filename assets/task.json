@@ -1,0 +1,5 @@
+{
+  name: "Jolt Task Example",
+  startTime: 20,
+  callbackFunc: someFunction
+}
