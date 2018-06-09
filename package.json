@@ -1,0 +1,29 @@
+{
+  "name": "jolt-tasks-scheduler",
+  "version": "1.0.0",
+  "description": "Jolt Scheduler",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd tests && mocha main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilbargal/Scheduler.git"
+  },
+  "keywords": [
+    "jolt",
+    "scheduler",
+    "ilbargal",
+    "wow"
+  ],
+  "author": "Bar Gal",
+  "license": "ISC",
+  "dependencies": {
+    "min-heap": "^0.2.3"
+  },
+  "homepage": "https://github.com/ilbargal/Scheduler.git#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}

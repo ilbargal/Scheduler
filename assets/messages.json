@@ -1,0 +1,4 @@
+{
+  "TASK_SERIALIZATION_ERR": "Not proper task json",
+  "TASK_NOT_EXISTS": "Cant delete this task as it doesnt exist"
+}
