@@ -1,5 +1,5 @@
 # Scheduler
-Jolt Task Scheduler 
+Jolt Task Scheduler.
 This project is a part of my application process to [Jolt](jolt.us).
 
 # Usage
@@ -36,4 +36,4 @@ The task object passed to the scheduler should be of the following shape( or for
 If failed to create this kind of objects, you'll hit an exception
 
 # Testing
-Supplied by Mocha. Either run ```$ npm install``` and then ```$ mocha``` or (if you have mocha globaly) ```$ mocha```
+Supplied by Mocha. Either run ```$ npm install``` and then ```$ npm test```.
