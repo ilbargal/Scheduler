@@ -1,6 +1,6 @@
 # Scheduler
 Jolt Task Scheduler.
-This project is a part of my application process to [Jolt](jolt.us).
+This project is a part of my application process to [Jolt](http://jolt.us).
 
 # Usage
 1. Import scheduler
