@@ -1,5 +1,5 @@
 # Scheduler
-Jolt Task Scheduler.
+Jolt Task Scheduler - developed by Bar Gal.
 This project is a part of my application process to [Jolt](http://jolt.us).
 
 # Usage
