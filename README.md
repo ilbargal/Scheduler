@@ -25,7 +25,7 @@ scheduler.insert(task)
 4. Wait for it :)
  
 # Important!
-The task object passed to the scheduler should be of the following shape( or form or model or w/e u call it)
+The task object passed to the scheduler should be of the following format:
 ```javascript
 {
     name: String,
